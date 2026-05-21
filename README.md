@@ -4,7 +4,9 @@
 [![Deploy](https://github.com/nikita-holban/telegram-translate/actions/workflows/deploy.yml/badge.svg)](https://github.com/nikita-holban/telegram-translate/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Demo](docs/demo.gif)
+<p align="center">
+  <img src="docs/demo.gif" alt="Demo" />
+</p>
 
 You can try it here: [@SendTranslatedBot](https://t.me/SendTranslatedBot)
 
