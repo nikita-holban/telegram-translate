@@ -19,5 +19,6 @@ jobs:
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           script: |
             cd /home/ana/telegram-translate
-            git pull
+            git fetch origin
+            git reset --hard origin/main
             sudo systemctl restart telegram-translate
